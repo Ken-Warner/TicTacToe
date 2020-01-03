@@ -1,0 +1,36 @@
+C:\Users\littl\source\repos\TicTacToe\bin\Debug\TicTacToe.exe.config
+C:\Users\littl\source\repos\TicTacToe\bin\Debug\TicTacToe.exe
+C:\Users\littl\source\repos\TicTacToe\bin\Debug\TicTacToe.pdb
+C:\Users\littl\source\repos\TicTacToe\obj\Debug\TicTacToe.csprojAssemblyReference.cache
+C:\Users\littl\source\repos\TicTacToe\obj\Debug\GameWindow.g.cs
+C:\Users\littl\source\repos\TicTacToe\obj\Debug\MainWindow.g.cs
+C:\Users\littl\source\repos\TicTacToe\obj\Debug\App.g.cs
+C:\Users\littl\source\repos\TicTacToe\obj\Debug\TicTacToe_MarkupCompile.cache
+C:\Users\littl\source\repos\TicTacToe\obj\Debug\TicTacToe_MarkupCompile.lref
+C:\Users\littl\source\repos\TicTacToe\obj\Debug\GameWindow.baml
+C:\Users\littl\source\repos\TicTacToe\obj\Debug\MainWindow.baml
+C:\Users\littl\source\repos\TicTacToe\obj\Debug\TicTacToe.g.resources
+C:\Users\littl\source\repos\TicTacToe\obj\Debug\TicTacToe.Properties.Resources.resources
+C:\Users\littl\source\repos\TicTacToe\obj\Debug\TicTacToe.csproj.GenerateResource.cache
+C:\Users\littl\source\repos\TicTacToe\obj\Debug\TicTacToe.csproj.CoreCompileInputs.cache
+C:\Users\littl\source\repos\TicTacToe\obj\Debug\TicTacToe.exe
+C:\Users\littl\source\repos\TicTacToe\obj\Debug\TicTacToe.pdb
+F:\Things\Programming\Visual Studio Projects\TicTacToe\bin\Debug\TicTacToe.exe.config
+F:\Things\Programming\Visual Studio Projects\TicTacToe\bin\Debug\TicTacToe.exe
+F:\Things\Programming\Visual Studio Projects\TicTacToe\bin\Debug\TicTacToe.pdb
+F:\Things\Programming\Visual Studio Projects\TicTacToe\obj\Debug\TicTacToe.csprojAssemblyReference.cache
+F:\Things\Programming\Visual Studio Projects\TicTacToe\obj\Debug\GameWindow.g.cs
+F:\Things\Programming\Visual Studio Projects\TicTacToe\obj\Debug\MainWindow.g.cs
+F:\Things\Programming\Visual Studio Projects\TicTacToe\obj\Debug\App.g.cs
+F:\Things\Programming\Visual Studio Projects\TicTacToe\obj\Debug\TicTacToe_MarkupCompile.cache
+F:\Things\Programming\Visual Studio Projects\TicTacToe\obj\Debug\TicTacToe_MarkupCompile.lref
+F:\Things\Programming\Visual Studio Projects\TicTacToe\obj\Debug\GameWindow.baml
+F:\Things\Programming\Visual Studio Projects\TicTacToe\obj\Debug\MainWindow.baml
+F:\Things\Programming\Visual Studio Projects\TicTacToe\obj\Debug\TicTacToe.g.resources
+F:\Things\Programming\Visual Studio Projects\TicTacToe\obj\Debug\TicTacToe.Properties.Resources.resources
+F:\Things\Programming\Visual Studio Projects\TicTacToe\obj\Debug\TicTacToe.csproj.GenerateResource.cache
+F:\Things\Programming\Visual Studio Projects\TicTacToe\obj\Debug\TicTacToe.csproj.CoreCompileInputs.cache
+F:\Things\Programming\Visual Studio Projects\TicTacToe\obj\Debug\TicTacToe.exe
+F:\Things\Programming\Visual Studio Projects\TicTacToe\obj\Debug\TicTacToe.pdb
+F:\Things\Programming\Visual Studio Projects\TicTacToe\obj\Debug\SettingsWindow.g.cs
+F:\Things\Programming\Visual Studio Projects\TicTacToe\obj\Debug\SettingsWindow.baml

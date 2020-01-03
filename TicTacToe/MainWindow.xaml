@@ -1,0 +1,38 @@
+﻿<Window x:Class="TicTacToe.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TicTacToe"
+        mc:Ignorable="d"
+        Title="Tic Tac Toe" Height="335" Width="220" ResizeMode="CanMinimize" WindowStartupLocation="CenterScreen" Icon="Resources/O.png">
+    <StackPanel>
+        <Image
+            Source="Resources/icon.png"
+            Stretch="Fill"
+            Width="200"
+            Height="200"
+            Margin="0 5" />
+        <Button 
+            Name="startGameButton"
+            Content="Start Game"
+            Margin="2"
+            BorderThickness="3"
+            BorderBrush="Black"
+            Click="StartGameButton_Click" />
+        <Button
+            Name="settingsButton"
+            Content="Settings"
+            Margin="2"
+            BorderThickness="3"
+            BorderBrush="Black"
+            Click="SettingsButton_Click" />
+        <Button
+            Name="exitButton"
+            Content="Exit"
+            Margin="2"
+            BorderThickness="3"
+            BorderBrush="Black"
+            Click="ExitButton_Click" />
+    </StackPanel>
+</Window>
